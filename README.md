@@ -10,12 +10,18 @@ Whether you're playing with friends, organising a local match or keeping track o
 
 ## 📲 Download STRYKO
 
-**Latest version: Android v1.47**
+## 🚀 Latest Release: v1.50
 
-👉 [DOWNLOAD STRYKO FOR ANDROID](https://github.com/pacharnesahil3-design/STRYKO/releases/latest)
+**A smoother, more responsive scoring experience.**
 
-Download the latest APK from the Releases page and install it on your Android device.
+- Improved striker/non-striker swapping
+- Better layout on narrow screens
+- Direct player name editing
+- End innings / finish match in Focus mode
+- Improved over history navigation
+- Focus mode layout fixes
 
+📥 [Download STRYKO v1.50](https://github.com/pacharnesahil3-design/STRYKO/releases/latest)
 ---
 
 ## ⚡ About STRYKO
